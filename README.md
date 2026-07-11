@@ -57,9 +57,10 @@ This project leverages Machine Learning to analyze symptom data and predict poss
 
 ## 📸 Screenshots
 
-### Confusion Matrix
 
-(Add image here)
+## 📊 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Prediction Interface
 
