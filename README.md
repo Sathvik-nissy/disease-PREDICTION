@@ -8,7 +8,7 @@ An intelligent Machine Learning application that predicts diseases based on pati
 
 This project leverages Machine Learning to analyze symptom data and predict possible diseases. A Random Forest Classifier is trained on a symptom dataset containing multiple diseases and is capable of generating predictions based on user-selected symptoms.
 
----
+----
 
 ## ✨ Features
 
